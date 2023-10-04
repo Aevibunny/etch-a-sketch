@@ -1,0 +1,8 @@
+#divContainer {
+    display: flex;
+    flex: 1;
+    height: 600px;
+    width: 600px;
+    border: 2px solid black;
+}
+

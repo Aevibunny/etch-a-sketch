@@ -1,0 +1,3 @@
+My goal with this project is to make a functional etch-a-sketch with both black/white and randomized color options. I also want to include an eraser, a clear all button and a slider to select the size of the grid to challenge myself. 
+I hope to complete one function per day at the minimum. I will be focused on the functionality and layout first and then I plan on adding css elements to make a more complete project.
+I currently do not know how to create all the functions I have planned and believe I will learn a lot from this process.
