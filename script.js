@@ -64,3 +64,11 @@ slider.oninput = function() {
     generateDivGrid(this.value);
   }
 
+//Clear all Button
+const clearButton = document.querySelector('#clearButton');
+let sketchBox = document.querySelector('#sketchBox')
+
+clearButton.addEventListener('click', () => {
+    divContainer.innerHTML = '';
+    generateDivGrid(slider.value);
+})
